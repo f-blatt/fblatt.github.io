@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tag/seite/creampie/15", {data:[{}],fetch:{},mutations:[]});
