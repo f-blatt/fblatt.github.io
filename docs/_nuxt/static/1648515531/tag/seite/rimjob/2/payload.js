@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tag/seite/rimjob/2", {data:[{}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tag/seite/deutsche-amateure/5", {data:[{}],fetch:{},mutations:[]});

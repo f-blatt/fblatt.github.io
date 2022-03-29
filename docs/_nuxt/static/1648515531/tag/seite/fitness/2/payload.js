@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tag/seite/fitness/2", {data:[{}],fetch:{},mutations:[]});

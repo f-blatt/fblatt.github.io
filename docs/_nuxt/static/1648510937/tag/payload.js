@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tag", {data:[{videos:[],nextPage:false,tag:void 0}],fetch:{},mutations:[]});

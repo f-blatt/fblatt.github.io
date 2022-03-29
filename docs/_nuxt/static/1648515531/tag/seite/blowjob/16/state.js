@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1648515531",layout:"default",error:a,state:{limit:80,apiUrl:"http:\u002F\u002Flocalhost:3001",mainTag:"german"},serverRendered:true,routePath:"\u002Ftag\u002Fseite\u002Fblowjob\u002F16",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null));
