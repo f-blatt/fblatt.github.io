@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tag/seite/latina/6", {data:[{}],fetch:{},mutations:[]});
