@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1648591139",layout:"default",error:a,state:{siteName:"Fickblatt",limit:80,apiUrl:"http:\u002F\u002Flocalhost:3001",mainTag:"german"},serverRendered:true,routePath:"\u002Fporno\u002Fphat-ass-tits-4-szene-5-e6220",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null));
